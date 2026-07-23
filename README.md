@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Book%20a%20Call-Google%20Calendar-34A853?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call">
   </a>
   <a href="https://github.com/saitarun18/Portfolio-Website/raw/main/public/images/SaiTarunParasaResume.pdf">
-    <img src="https://img.shields.io/badge/Résumé-Click%20Here-brightgreen?style=for-the-badge" alt="Résumé">
+    <img src="https://img.shields.io/badge/Resume-Click%20Here-brightgreen?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume">
   </a>
   <img src="https://komarev.com/ghpvc/?username=saitarun18&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views">
 </p>
