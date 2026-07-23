@@ -83,8 +83,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saitarun18&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitarun18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saitarun18&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saitarun18&theme=tokyonight" alt="Stats" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saitarun18&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saitarun18&theme=tokyonight" alt="Most-commit languages" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saitarun18&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
 </p>
 
 <p align="center">
