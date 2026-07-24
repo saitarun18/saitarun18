@@ -29,7 +29,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Software Engineer & Data Engineer** — 5 years building software, 2 years turning data into real-world products.
+- 💼 **Software Engineer & Data Engineer** — 4 years building software, 2 years turning data into real-world products.
 - 🌊 I work across the stack **and** the data pipeline: `Python`, `Java`, `SQL`, `React`/`Next.js`, plus streaming with **Apache Kafka, Flink & Beam** on **Azure**.
 - 🧠 Into **AI / ML & speech processing** — built an Automatic Speech Recognition system on the **Kaldi** toolkit (i-vectors & x-vectors).
 - 🎓 **B.Tech in Computer Science, IIIT Dharwad.**
@@ -76,7 +76,6 @@
 - 🚀 [**MiniProject-I_096**](https://github.com/saitarun18/MiniProject-I_096) — **Automatic Speech Recognition** on the **Kaldi** toolkit; extracts **i-vectors** & **x-vectors** from the IMSV dataset and evaluates robustness via **Equal Error Rate (EER)**.
 - 🚀 [**DNGP_096**](https://github.com/saitarun18/DNGP_096) — Optimizing **edge-computing** devices with a semi-polynomial algorithm that routes data from many devices to their edge computers using **minimal power**.
 - 🚀 [**StatisticsForCS**](https://github.com/saitarun18/StatisticsForCS) — Statistical-experimentation case study measuring the effect of performance enhancers on athletes.
-- 🚀 [**CloudGaming_096**](https://github.com/saitarun18/CloudGaming_096) — Course project exploring the feasibility of **cloud gaming** and streaming quality.
 
 ---
 
