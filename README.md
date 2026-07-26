@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sai Tarun Parasa!</h1>
-<h3 align="center">Software Engineer & Data Engineer — building scalable applications and data platforms 🚀</h3>
+<h3 align="center">Software Engineer & Data Engineer</h3>
 
 <p align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="Coding" width="420">
