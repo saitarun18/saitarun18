@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sai Tarun Parasa!!</h1>
+<h1 align="center">👋 Hi, I'm Sai Tarun Parasa!</h1>
 <h3 align="center">Software Engineer & Data Engineer</h3>
 
 <p align="center">
